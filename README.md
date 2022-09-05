@@ -1,54 +1,26 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://stunningtodolist.web.app/">
+    <img alt="Person" src="https://user-images.githubusercontent.com/86434696/188513597-4201f882-3ca7-480f-987f-b0509896bf78.svg" width="350" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby/Firease ToDo List
 </h1>
 
-## 🚀 Quick start
+## 🚀 Description
 
-1.  **Create a Gatsby site.**
+This is a simple ToDo List with login made with GatsbyJs and Firebase. Here is a list of all the technologies used to create this app. (For now it only features a mobile view).
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+- GatsbyJs
+- Firebase
+- React
+- RecoilJs
+- Sass
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## 🚀 Deployment
 
-2.  **Start developing.**
+https://stunningtodolist.web.app/
 
-    Navigate into your new site’s directory and start it up.
+## 🚀 Develop
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+If you want to run the app locally simply run `gatsby develop` in the repo directory. (Note that you will need to run `npm i` before).
