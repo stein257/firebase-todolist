@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby/Firease ToDo List
+  Gatsby/Firebase ToDo List
 </h1>
 
 ## 🚀 Description
